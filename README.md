@@ -24,6 +24,6 @@ Este proyecto es una página de registro para un boletín informativo, donde los
 ¡Siéntete libre de contribuir a este proyecto! Puedes abrir problemas, enviar solicitudes de extracción o mejorar la documentación según sea necesario. Cualquier contribución es bienvenida y apreciada.
 
 ## Autor:
-Desarrollado por [Carlos Linares] ([Tu perfil de GitHub aquí](https://github.com/KarlangaXZ)).
+Desarrollado por [Carlos Linares] ([KarlangaXZ](https://github.com/KarlangaXZ)).
 
 ¡Gracias por revisar este proyecto! Esperamos que encuentres útil esta página de registro de boletines informativos. Si tienes alguna pregunta o sugerencia, no dudes en comunicarte con nosotros.
